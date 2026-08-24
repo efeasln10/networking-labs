@@ -13,6 +13,7 @@ PC1 ─── Switch ─── PC2
 ## IP Addresleme
 
 | Device | IP Address    | Subnet Mask |
+|---|---|---|
 | PC1    | 192.168.10.10 | 255.255.255.0 |
 | PC2    | 192.168.10.20 | 255.255.255.0 |
 
