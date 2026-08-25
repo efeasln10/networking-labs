@@ -326,17 +326,26 @@ Bu durum paketin bir Layer 3 router üzerinden geçtiğini göstermektedir.
 ## Kullanılan Komutlar
 
 enable
+
 configure terminal
+
 show vlan brief
+
 show interfaces trunk
+
 show interfaces status
+
 show ip interface brief
+
 show ip route
+
 show running-config
+
 arp -a
+
 ping
 
 ## Kullanılan Araçlar
 
 - Cisco Packet Tracer
-- GitHub
+  
